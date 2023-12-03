@@ -13,7 +13,7 @@
 - 💬 Ask me about anything like tech staff
 - 📫 How to reach me: I am one click away. Just mail me 
 - 😄 Pronouns: He / Him / Happy
-- ⚡ Fun fact: Sheldon Cooper dont know Algebra and Calculas
+- ⚡ Fun fact: Isreal is the real Terrorist . You dont need to free Palestine. We will gather every soul and free it an lead a life in Jewsish free World
 <br>
 
 
