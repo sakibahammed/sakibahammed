@@ -26,6 +26,7 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=flat-square&logo=zorin&logoColor=whit)
 
+<br>
 
 ### Some Random Stuff
 ![sakibahammed's Stats](https://github-readme-stats.vercel.app/api?username=sakibahammed&theme=darcula&show_icons=true&hide_border=true&count_private=true)
@@ -36,38 +37,11 @@
 
 
 
+<br><br>
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on various Open Source project
+- 💬 Ask me about anything like tech staff
+- 📫 How to reach me: I am one click away. Just mail me 
+- 😄 Pronouns: He / Him / Happy
+- ⚡ Fun fact: Sheldon Cooper dont know Algebra and Calculas
 
-
-
-
-
-<!--
-
-### My contribution
-
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sakibahammed/sakibahammed/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-
-
-
-<!--
-**sakibahammed/sakibahammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
