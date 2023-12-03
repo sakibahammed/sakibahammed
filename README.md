@@ -20,12 +20,12 @@
 ![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=flat-square&logo=zorin&logoColor=whit)
 
 
-### Numbers
-![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+### Some Random Stuff
+![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=sakibahammed&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)
+![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakibahammed&theme=darcula&hide_border=true)
 
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibahammed&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **sakibahammed/sakibahammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
