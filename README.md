@@ -3,9 +3,19 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Ahammed+Sakib!;"/>
 </h1>
-<br><br>
-### 💻Software Engineer. 🐱Cat Lover.
 <br>
+<h3> 💻Software Engineer. 🐱Cat Lover.</h3>
+<br>
+
+
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on various Open Source project
+- 💬 Ask me about anything like tech staff
+- 📫 How to reach me: I am one click away. Just mail me 
+- 😄 Pronouns: He / Him / Happy
+- ⚡ Fun fact: Sheldon Cooper dont know Algebra and Calculas
+<br>
+
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -35,10 +45,4 @@
 ![sakibahammed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibahammed&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on various Open Source project
-- 💬 Ask me about anything like tech staff
-- 📫 How to reach me: I am one click away. Just mail me 
-- 😄 Pronouns: He / Him / Happy
-- ⚡ Fun fact: Sheldon Cooper dont know Algebra and Calculas
 
