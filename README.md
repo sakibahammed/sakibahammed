@@ -8,7 +8,7 @@
 <br>
 
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning , solving problems in Leetcode and preparing for great place to perform
 - 👯 I’m looking to collaborate on various Open Source project
 - 💬 Ask me about anything like tech staff
 - 📫 How to reach me: I am one click away. Just mail me 
