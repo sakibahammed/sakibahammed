@@ -14,6 +14,7 @@
 - 📫 How to reach me: I am one click away. Just mail me 
 - 😄 Pronouns: He / Him / Happy
 - ⚡ Fun fact: Isreal is the real Terrorist . You dont need to free Palestine. We will gather every soul and free it an lead a life in Jewsish free World
+- Restart
 <br>
 
 
