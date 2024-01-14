@@ -42,8 +42,6 @@
 ### Some Random Stuff
 ![sakibahammed's Stats](https://github-readme-stats.vercel.app/api?username=sakibahammed&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![sakibahammed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakibahammed&theme=darcula&hide_border=true)
-
 ![sakibahammed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibahammed&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 
