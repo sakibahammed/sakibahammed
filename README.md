@@ -39,8 +39,7 @@
 ![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=flat-square&logo=zorin&logoColor=whit)
 
 
-### Some Random Stuff
-![sakibahammed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibahammed&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
 
 
 
